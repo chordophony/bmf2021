@@ -37,7 +37,7 @@
 |Rotary|Click|Increment Bank|
 |Rotary|Dbl-Click|Decrement Bank|
 
-#### Easiest Way to Program
+### Easiest Way to Program
 
 1. Unplug device *recommend keeping micro-usb plugged into device
 2. Plug in device then immediately click & hold rotary knob
