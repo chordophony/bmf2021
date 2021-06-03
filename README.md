@@ -13,6 +13,7 @@
    - press, release, click, double-click, long press events
  - 1/4in TRS controller jack 
    - currently supports several external button controllers, notably Digitech FS3X 3-button controller (expression/volume pedal support in the works)
+ - Micro-USB for power & firmware updates
  - 3 programmable profiles, each with 20 banks
 
 ### "Factory" Built-in Profiles:
@@ -34,3 +35,11 @@
 |Rotary|Jog|Select Bank|
 |Rotary|Click|Increment Bank|
 |Rotary|Dbl-Click|Decrement Bank|
+
+#### Easiest Way to Program
+
+1. Unplug device *recommend keeping micro-usb plugged into device
+2. Plug in device then immediately click & hold rotary knob
+3. Release when display reads, "Release button for Access Point"
+4. From your computer or mobile device, go to Wifi settings and connect to network named "Pedal..."
+5. On your device's web browser go to http://bmf-2021-3.local/
