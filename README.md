@@ -11,7 +11,7 @@
    - Global config: Rotary=select bank; click = increment bank; double-click = decrement bank
  - OLED display
  - 2 momentary foot switches
-   - press, release, click, double-click, long press events
+   - Events supported:  press, release, click, double-click, long press
  - 1/4in TRS controller jack 
    - currently supports several external button controllers, notably Digitech FS3X 3-button controller (expression/volume pedal support in the works)
  - Micro-USB for power & firmware updates
