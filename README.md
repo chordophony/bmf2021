@@ -5,6 +5,7 @@
 ### Features
  - Based on Open Source MIDI Controller Software
  - Embedded chip and software supports MIDI via Bluetooth / BLE
+ - BLE MIDI supported by iPhone/iPad, Android, Mac, Windows
  - Programmable via Wifi / AP
  - 1 rotary encoder
    - Global config: Rotary=select bank; click = increment bank; double-click = decrement bank
