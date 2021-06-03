@@ -44,3 +44,5 @@
 3. Release when display reads, "Release button for Access Point"
 4. From your computer or mobile device, go to Wifi settings and connect to network named "Pedal..."
 5. On your device's web browser go to http://bmf-2021-3.local/
+6. Use device website to update pedal, bank, and other configurations
+7. To return to factory-default Bluetooth only:  repeat steps 1-2,release for Bluetooth
