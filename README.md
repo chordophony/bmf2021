@@ -7,6 +7,7 @@
  - Embedded chip and software supports MIDI via Bluetooth / BLE
  - Programmable via Wifi / AP
  - 1 rotary encoder
+   - Global config: Rotary=select bank; click = increment bank; double-click = decrement bank
  - OLED display
  - 2 momentary foot switches
    - press, release, click, double-click, long press events
@@ -16,8 +17,20 @@
 
 ### "Factory" Built-in Profiles:
 
+#### Default Bank Actions
+
 |Banks|Events|Notes|
 |---|---|---|
 |A01-A08|each button event sends a different MIDI Control Change number|1/4in=FS3X/Momentary3|
 |B09-B16|"... MIDI Program change|1/4in=FS3X/Momentary3|
 |C17-C20|MIDI Notes|1/4in=FS3X/Momentary3|
+
+#### Global config for banks A/B
+
+|Button|Event|Action|
+|---|---|---|
+|Right Footswitch|Long Press|Increment Bank + Increment Program Change|
+|Right Footswitch|Dbl-Click|Decrement "...|
+|Rotary|Jog|Select Bank|
+|Rotary|Click|Increment Bank|
+|Rotary|Dbl-Click|Decrement Bank|
