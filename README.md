@@ -1,6 +1,4 @@
-# bmf2021
-
-## Docs for BMF 2021 Edition
+# BMF 2021 Edition Overview
 
 ### Features
  - Based on Open Source MIDI Controller Software
