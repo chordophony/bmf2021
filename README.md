@@ -26,7 +26,7 @@
 |B09-B16|"... MIDI Program change|1/4in=FS3X/Momentary3|
 |C17-C20|MIDI Notes|1/4in=FS3X/Momentary3|
 
-#### Global config for banks A/B
+#### Global config for Profiles A & B
 
 |Button|Event|Action|
 |---|---|---|
