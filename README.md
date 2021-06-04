@@ -37,7 +37,7 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 
 ### Easiest Way to Program
 
-1. Unplug device *recommend keeping micro-usb plugged into device
+1. Unplug / turn off power source for device
 2. Plug in device then immediately click & hold rotary knob
 3. Release when display reads, "Release button for Access Point"
 4. From your computer or mobile device, go to Wifi settings and connect to network named "Pedal..."
