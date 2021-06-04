@@ -8,7 +8,6 @@
  - BLE MIDI supported by iPhone/iPad, Android, Mac, Windows
  - Programmable via Wifi / AP
  - 1 rotary encoder
-   - Global config: Rotary=select bank; click = increment bank; double-click = decrement bank
  - OLED display
  - 2 momentary foot switches
    - Events supported:  press, release, click, double-click, long press
