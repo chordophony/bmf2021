@@ -46,3 +46,13 @@
 5. On your device's web browser go to http://bmf-2021-3.local/
 6. Use device website to update pedal, bank, and other configurations
 7. To return to factory-default Bluetooth only:  repeat steps 1-2,release for Bluetooth
+
+### Tips & Tricks
+ - iPhone/iPad - BLE Midi App to connect device https://youtu.be/PRNyZt9T-yk?t=194
+ - Examples of apps that support "MIDI learn capability
+   - iPhone/iPad - AUM
+   - iPhone/iPad - OnSong
+   - Mac - Logic Pro, Mainstage, GarageBand,...
+   - Mac/Win - Ableton Live,...
+   - Many more...
+ - ...
