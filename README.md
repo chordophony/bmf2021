@@ -15,6 +15,44 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
  - Micro-USB for power & firmware updates
  - 3 programmable profiles, each with 20 banks
 
+### How to Use BMF2021 with iPhone & iPad
+#### First Time Set Up
+0. Video: 
+1. Download BLE Midi App or AUM in the App Store - both of these apps allow connections to BLE Midi devices
+   - BLE Midi App (free):  https://apps.apple.com/us/app/bluetooth-midi-connect/id1108321791
+   - AUM ($20, but this is a terrific iPhone/iPad music production app):  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
+2. Plug in the BMF2021 device using micro-usb port on the right side of device
+   - Use any USB power supply, e.g. a battery USB charger or a wall plug USB charger
+3. Open BLE Midi App, and connect as seen in this video
+4. You now have a Bluetooth MIDI connection established between the BMF2021 and the iPhone/iPad
+
+### How to Use BMF2021 with Mac
+0. Video: 
+1. Open the Audio Midi Setup app (built-in:  /Applications/Utilities/Audio Midi Setup)
+2. Window menu -> Show MIDI Studio
+3. Click on the bluetooth icon in menu bar
+4. Find the BMF2021 device in the list (it will be an 8 digit "0-9,A-F" code)
+5. Click Connect
+
+### How I use BMF2021
+#### Changing patches of plugins in AUM on iPad/iPhond, Muting Channels, Toggle Record
+ - Video:
+ - App link:  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
+#### Using it as a Loop Pedal with Group the Loop app on iPad/iPhone
+ - Video:
+ - App link:  https://apps.apple.com/us/app/group-the-loop/id1029416579
+#### Page-turning and song-switching in OnSong app on iPad/iPhone
+ - Video:
+ - App link:  https://apps.apple.com/us/app/onsong-pro/id502344938
+
+### Other ways you could use BMF2021
+#### Updating controls in Apple's MainStage app on Mac
+ - https://support.apple.com/guide/mainstage/learn-a-controller-assignment-mstg338d4728/3.5/mac/11.3.1
+#### Automating apps like Logic Pro
+ - https://support.apple.com/lv-lv/guide/logicpro/lgcp0155c51f/mac
+#### Automating music production apps like Ableton Live
+ - https://help.ableton.com/hc/en-us/articles/209774265-How-to-use-a-hardware-synthesizer-with-Live#furtheroptions
+
 ### "Factory" Built-in Profiles:
 
 #### Default Bank Actions
@@ -34,6 +72,7 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 |Rotary|Jog|Select Bank|
 |Rotary|Click|Increment Bank|
 |Rotary|Dbl-Click|Decrement Bank|
+
 
 ### Easiest Way to Program
 
