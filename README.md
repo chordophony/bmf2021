@@ -16,7 +16,7 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
  - 3 programmable profiles, each with 20 banks
 
 ### How to Use BMF2021 with iPhone & iPad
-#### First Time Set Up
+#### Connecting the device
 0. Video: 
 1. Download BLE Midi App or AUM in the App Store - both of these apps allow connections to BLE Midi devices
    - BLE Midi App (free):  https://apps.apple.com/us/app/bluetooth-midi-connect/id1108321791
@@ -26,6 +26,17 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 3. Open BLE Midi App, and connect as seen in this video
 4. You now have a Bluetooth MIDI connection established between the BMF2021 and the iPhone/iPad
 
+#### How I use BMF2021
+##### Changing patches of plugins in AUM on iPad/iPhond, Muting Channels, Toggle Record
+ - Video:
+ - App link:  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
+##### Using it as a Loop Pedal with Group the Loop app on iPad/iPhone
+ - Video:
+ - App link:  https://apps.apple.com/us/app/group-the-loop/id1029416579
+##### Page-turning and song-switching in OnSong app on iPad/iPhone
+ - Video:
+ - App link:  https://apps.apple.com/us/app/onsong-pro/id502344938
+
 ### How to Use BMF2021 with Mac
 0. Video: 
 1. Open the Audio Midi Setup app (built-in:  /Applications/Utilities/Audio Midi Setup)
@@ -33,17 +44,6 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 3. Click on the bluetooth icon in menu bar
 4. Find the BMF2021 device in the list (it will be an 8 digit "0-9,A-F" code)
 5. Click Connect
-
-### How I use BMF2021
-#### Changing patches of plugins in AUM on iPad/iPhond, Muting Channels, Toggle Record
- - Video:
- - App link:  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
-#### Using it as a Loop Pedal with Group the Loop app on iPad/iPhone
- - Video:
- - App link:  https://apps.apple.com/us/app/group-the-loop/id1029416579
-#### Page-turning and song-switching in OnSong app on iPad/iPhone
- - Video:
- - App link:  https://apps.apple.com/us/app/onsong-pro/id502344938
 
 ### Other ways you could use BMF2021
 #### Updating controls in Apple's MainStage app on Mac
