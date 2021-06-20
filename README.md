@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/76242207/122678860-1f9f9980-d1ae-11eb-
 
 #### Step 2: Connect to device
 https://user-images.githubusercontent.com/76242207/122678937-5a093680-d1ae-11eb-927c-43854c19ea7d.mov
+
 https://user-images.githubusercontent.com/76242207/122678958-72795100-d1ae-11eb-8d8f-0dc0cb66e8f7.mov
 
 #### Step 3: Set up your apps (this is a one time step)
