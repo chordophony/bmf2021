@@ -3,7 +3,7 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 
 ### Features
  - Based on Open Source MIDI Controller Software
- - ESP32 micro controller (i.e. the brains of the operation) supports MIDI via Bluetooth / BLE
+ - ESP32 micro controller (i.e. the brains behind the operation) supports MIDI via Bluetooth / BLE
  - BLE MIDI supported by iPhone/iPad, Android, Mac, Windows
  - Programmable via Wifi / AP
  - 1 rotary encoder
