@@ -15,6 +15,20 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
  - Micro-USB for power & firmware updates
  - 3 programmable profiles, each with 20 banks
 
+### Quick Start
+
+#### Step 1: Plug it in
+https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%201%20-%20Plug%20it%20in.mov
+
+#### Step 2: Connect to device
+https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%202%20-%20Connect%20to%20device%20from%20iPhone%20or%20iPad.mov
+https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%202%20-%20Or%20connect%20to%20device%20from%20Mac%20(or%20Windows%20or%20Android).mov
+
+#### Step 3: Set up your apps (this is a one time step)
+https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%203%20-%20set%20up%20your%20apps.mov
+
+#### Step 4: Play
+
 ### How to Use BMF2021 with iPhone & iPad
 #### Connecting the device
 0. Video: 
