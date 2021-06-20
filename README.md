@@ -1,11 +1,3 @@
-
-
-https://user-images.githubusercontent.com/76242207/122678937-5a093680-d1ae-11eb-927c-43854c19ea7d.mov
-
-
-
-https://user-images.githubusercontent.com/76242207/122678958-72795100-d1ae-11eb-8d8f-0dc0cb66e8f7.mov
-
 # BMF 2021 Edition Overview
 https://reverb.com/item/40525980-bluetooth-midi-footpedal
 
@@ -26,23 +18,18 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 ### Quick Start
 
 #### Step 1: Plug it in
-[](https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%201%20-%20Plug%20it%20in.mov)
-
-
-
 https://user-images.githubusercontent.com/76242207/122678860-1f9f9980-d1ae-11eb-80c6-466c39ff6e42.mov
 
-
-
 #### Step 2: Connect to device
-<video src=https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%202%20-%20Connect%20to%20device%20from%20iPhone%20or%20iPad.mov></video>
-
-https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%202%20-%20Or%20connect%20to%20device%20from%20Mac%20(or%20Windows%20or%20Android).mov
+https://user-images.githubusercontent.com/76242207/122678937-5a093680-d1ae-11eb-927c-43854c19ea7d.mov
+https://user-images.githubusercontent.com/76242207/122678958-72795100-d1ae-11eb-8d8f-0dc0cb66e8f7.mov
 
 #### Step 3: Set up your apps (this is a one time step)
-https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%203%20-%20set%20up%20your%20apps.mov
+https://user-images.githubusercontent.com/76242207/122678993-9fc5ff00-d1ae-11eb-8d1c-5f89f16208f9.mov
 
 #### Step 4: Play
+
+---
 
 ### User Guide
 #### Connecting the device
