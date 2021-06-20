@@ -29,9 +29,8 @@ https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%203%
 
 #### Step 4: Play
 
-### How to Use BMF2021 with iPhone & iPad
+### User Guide
 #### Connecting the device
-0. Video: 
 1. Download BLE Midi App or AUM in the App Store - both of these apps allow connections to BLE Midi devices
    - BLE Midi App (free):  https://apps.apple.com/us/app/bluetooth-midi-connect/id1108321791
    - AUM ($20, but this is a terrific iPhone/iPad music production app):  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
@@ -42,7 +41,6 @@ https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%203%
 
 #### How I use BMF2021
 ##### Changing patches of plugins in AUM on iPad/iPhond, Muting Channels, Toggle Record
- - Video:
  - App link:  https://apps.apple.com/us/app/aum-audio-mixer/id1055636344
 ##### Using it as a Loop Pedal with Group the Loop app on iPad/iPhone
  - Video:
@@ -52,7 +50,6 @@ https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%203%
  - App link:  https://apps.apple.com/us/app/onsong-pro/id502344938
 
 ### How to Use BMF2021 with Mac
-0. Video: 
 1. Open the Audio Midi Setup app (built-in:  /Applications/Utilities/Audio Midi Setup)
 2. Window menu -> Show MIDI Studio
 3. Click on the bluetooth icon in menu bar
