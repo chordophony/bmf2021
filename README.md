@@ -11,7 +11,7 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
  - 2 momentary foot switches
    - Events supported:  press, release, click, double-click, long press
  - 1/4in TRS controller jack 
-   - currently supports several external button controllers, notably Digitech FS3X 3-button controller (expression/volume pedal support in the works)
+   - currently supports several external button controllers, notably Digitech FS3X 3-button controller and most common 2-button foot controllers (e.g. those that connect to a guitar amp) [expression/volume pedal support in the works]
  - Micro-USB for power & firmware updates
  - 3 programmable profiles, each with 20 banks
 
