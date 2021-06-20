@@ -15,20 +15,20 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
  - Micro-USB for power & firmware updates
  - 3 programmable profiles, each with 20 banks
 
-### Quick Start
+# Quick Start
 
-#### Step 1: Plug it in
+## Step 1: Plug it in
 https://user-images.githubusercontent.com/76242207/122678860-1f9f9980-d1ae-11eb-80c6-466c39ff6e42.mov
 
-#### Step 2: Connect to device
+## Step 2: Connect to device
 https://user-images.githubusercontent.com/76242207/122678937-5a093680-d1ae-11eb-927c-43854c19ea7d.mov
 
 https://user-images.githubusercontent.com/76242207/122678958-72795100-d1ae-11eb-8d8f-0dc0cb66e8f7.mov
 
-#### Step 3: Set up your apps (this is a one time step)
+## Step 3: Set up your apps (this is a one time step)
 https://user-images.githubusercontent.com/76242207/122678993-9fc5ff00-d1ae-11eb-8d1c-5f89f16208f9.mov
 
-#### Step 4: Play
+## Step 4: Play
 
 ---
 
