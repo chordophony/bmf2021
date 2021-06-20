@@ -20,6 +20,12 @@ https://reverb.com/item/40525980-bluetooth-midi-footpedal
 #### Step 1: Plug it in
 [](https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%201%20-%20Plug%20it%20in.mov)
 
+
+
+https://user-images.githubusercontent.com/76242207/122678860-1f9f9980-d1ae-11eb-80c6-466c39ff6e42.mov
+
+
+
 #### Step 2: Connect to device
 <video src=https://github.com/chordophony/bmf2021/blob/main/videos/BMF2021%20::%20Step%202%20-%20Connect%20to%20device%20from%20iPhone%20or%20iPad.mov></video>
 
